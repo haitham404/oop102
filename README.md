@@ -19,34 +19,49 @@ Welcome to NoteApp — a user-friendly Java-based application designed to simpli
 📂 Organized Note Management: Access all your notes in one place.
 
 Requirements
+
 Java 8 or higher
+
 An IDE like IntelliJ IDEA or Eclipse
+
 Installation
+
 Clone the repository:
-bash
-Copy code
+
 git clone https://github.com/yourusername/NoteApp.git
+
 Open the project in IntelliJ IDEA:
+
 Click on File > Open and select the cloned project directory.
+
 Build the project:
+
 Open the Maven/Gradle tab and click on "Reload All Projects."
+
 Run the application:
+
 Right-click LoginScreen.java or NoteApp.java and select Run.
+
 ✨ Usage
 Launch the app and sign up as a new user or log in with an existing account.
+
 Start creating, editing, and managing your notes.
+
 Attach images and enjoy a seamless note-taking experience.
+
+
 🤝 Contribution
 Contributions are always welcome! Here's how you can help:
 
 Fork the repository.
+
 Create a feature branch:
-bash
-Copy code
+
+
 git checkout -b feature/my-new-feature
+
 Commit your changes:
-bash
-Copy code
+
 git commit -m "Add some feature"
 Push the branch:
 bash
