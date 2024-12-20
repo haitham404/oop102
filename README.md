@@ -50,27 +50,3 @@ Start creating, editing, and managing your notes.
 Attach images and enjoy a seamless note-taking experience.
 
 
-🤝 Contribution
-Contributions are always welcome! Here's how you can help:
-
-Fork the repository.
-
-Create a feature branch:
-
-
-git checkout -b feature/my-new-feature
-
-Commit your changes:
-
-git commit -m "Add some feature"
-Push the branch:
-bash
-Copy code
-git push origin feature/my-new-feature
-Open a pull request!
-🛡️ License
-This project is licensed under the MIT License. You are free to use, modify, and distribute this software, as long as proper credit is given.
-
-🌐 Connect With Us
-Have questions or feedback? Reach out at your-email@example.com.
-Check out our work: Your Portfolio
