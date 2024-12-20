@@ -1,13 +1,21 @@
 📓 NoteApp: Your Simple & Intuitive Note-Taking Companion
+
+
 🚀 Overview
 Welcome to NoteApp — a user-friendly Java-based application designed to simplify your note-taking experience! Whether you're jotting down ideas, organizing tasks, or keeping memories, NoteApp provides a clean, intuitive interface to manage your notes effortlessly. 🖋️
 
 🌟 Features
+
 🔒 User Authentication: Register and log in securely to access your notes.
+
 📝 Create & Edit Notes: Add titles, write detailed content, and associate images with your notes.
+
 🕒 Auto-Timestamps: Track when notes are created and modified automatically.
+
 🖼️ Image Support: Attach images to enhance your notes.
+
 🎨 User-Friendly GUI: Built with Java Swing, ensuring a smooth and responsive interface.
+
 📂 Organized Note Management: Access all your notes in one place.
 
 Requirements
